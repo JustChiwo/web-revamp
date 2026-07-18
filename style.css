@@ -125,3 +125,35 @@ video {
     padding-bottom: 70px;
   }
 }
+
+button {
+  padding: 0.75rem 2rem;
+  border-radius: 11px;
+  border: none;
+  background: #e5e7eb;
+  color: #111827;
+  font-weight: 600;
+  box-shadow:
+    6px 6px 12px rgba(0,0,0,0.15),
+    -6px -6px 12px rgba(255,255,255,0.9);
+  cursor: pointer;
+  transition: box-shadow 200ms ease, transform 150ms ease;
+}
+
+button:hover {
+  box-shadow:
+    8px 8px 16px rgba(0,0,0,0.18),
+    -8px -8px 16px rgba(255,255,255,1);
+}
+
+button:active {
+  transform: translateY(1px);
+  box-shadow:
+    inset 4px 4px 8px rgba(0,0,0,0.15),
+    inset -4px -4px 8px rgba(255,255,255,0.9);
+}
+
+button:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 4px;
+}
