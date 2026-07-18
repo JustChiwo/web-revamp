@@ -17,17 +17,13 @@ The workload was divided among team members as follows:
 
 ## Design Choices
 
-We agreed on a green and brown color scheme, sourced from Pinterest for inspiration. This palette was chosen deliberately to reflect the theme of the website, since it is a tea-based site — greens and browns echo natural, earthy tones associated with tea leaves and brewing.
+We agreed on a green and brown color scheme, sourced from Pinterest for inspiration. This palette was chosen deliberately to reflect the theme of the website, since it is a tea-based site — greens and browns echo natural, earthy tones associated with tea leaves and brewing.Used google fonts api for a more mordern, calm astetic look
 
 ## Timeline
 
 A project timeline was agreed upon to ensure all sections are completed by a set date, allowing the team to reconvene, review each other's progress, and confirm consistency across pages before final submission.
 
 # Documentaton
-
-## Development Log
-
-Note: The Products page has not yet been pushed to the repository by the responsible team member, so this section will be updated once that's available.
 
 ## Navigation
 
@@ -42,7 +38,7 @@ Note: The Products page has not yet been pushed to the repository by the respons
 
 ## Products Page
 
-Nkateko/Yolanda is working on creating the Products page. (Pending push to repository.)
+Nkateko/Yolanda Worked on the product page
 
 ## Contact Us Page
 
@@ -52,7 +48,3 @@ Nkateko/Yolanda is working on creating the Products page. (Pending push to repos
 ## Team Coordination
 
 The team held a call to discuss the overall workflow, project timeline, and the color scheme to be used across the site.
-
-## Planned Improvements
-
-- Update the site's typography using Google Fonts — this is planned but not yet implemented, as it requires further learning before being applied to the project.
